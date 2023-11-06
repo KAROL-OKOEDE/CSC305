@@ -1,2 +1,2 @@
 # CSC305
-This course we used rust to build operating system
+In this course, we used rust to build an operating system.
